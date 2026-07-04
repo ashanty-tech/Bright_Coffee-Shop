@@ -27,7 +27,6 @@ Six months of transaction data (Jan–Jun 2023, 3 NYC stores, ~149k rows) turned
 | `docs/` | Project description & methodology (PDF) |
 | `data/` | Raw dataset (CSV) |
 | `planning/` | Data flow diagram & Gantt chart (Miro) |
-| `databricks/` | PySpark ETL pipeline |
 | `sql/` | Analysis queries |
 | `excel/` | Processed workbook with pivots & charts |
 | `presentation/` | CEO presentation |
@@ -35,5 +34,3 @@ Six months of transaction data (Jan–Jun 2023, 3 NYC stores, ~149k rows) turned
 ## Tools
 
 Databricks •SQL · Microsoft Excel · PowerPoint · Miro
-
-*

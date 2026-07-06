@@ -1,5 +1,5 @@
 # Bright_Coffee-Shop
-Bright Coffee Shop — Sales Analysis
+Bright Coffee Shop Sales Analysis
 
 Case Study 1 · BrightLearn 2026
 
@@ -7,11 +7,11 @@ Six months of transaction data (Jan–Jun 2023, 3 NYC stores, ~149k rows) turned
 
 ## Key findings
 
-- **Revenue nearly doubled** — up 104% from January to June.
-- **45.8% of daily revenue lands before 11am** — the store runs on the morning rush.
+- **Revenue nearly doubled** up 104% from January to June.
+- **45.8% of daily revenue lands before 11am**  the store runs on the morning rush.
 - **Coffee + Tea are two-thirds of revenue**; Bakery is a distant third.
-- **All 3 stores are within 3% of each other** — a repeatable model.
-- **58.5% of orders are a single item**, and Large drinks earn 22% more per cup — the fastest lever is a bigger basket, not a bigger menu.
+- **All 3 stores are within 3% of each other** a repeatable model.
+- **58.5% of orders are a single item**, and Large drinks earn 22% more per cup  the fastest lever is a bigger basket, not a bigger menu.
 
 ## What I did
 
